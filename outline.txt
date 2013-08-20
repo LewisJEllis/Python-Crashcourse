@@ -1,0 +1,36 @@
+print
+variables
+types of variables
+operations
+  order of operations
+  bools
+  different behaviors
+functions
+  len round
+  casters
+  bool
+  defining our own
+    multiple arguments
+logic flow
+  boolean decisions
+  and or not
+lists of things
+  indexing into lists
+  iterating over range
+  iterating over elements
+  factorial
+  sum
+  matrix
+PE#1
+isprime
+libraries
+  math
+  random
+isprimesmart
+while loop
+PE#7
+recursion
+  factorial
+  fibonacci
+PE # 25
+basic debugging
